@@ -1,4 +1,4 @@
-# **Mini Project 3 - Distinguishing Human vs AI-Generated News**
+# **Distinguishing Human vs AI-Generated News**
 
 ## [Click for Presentation](https://docs.google.com/presentation/d/12BAPUrPsUY9ibZcpy6O5I8Wa8WVLjakqYzQ6hijp0p0/pub?start=false&loop=false&delayms=3000)
 
